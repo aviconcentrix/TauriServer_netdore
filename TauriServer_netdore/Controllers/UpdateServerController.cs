@@ -17,7 +17,7 @@ namespace TauriServer_netdore.Controllers
           version="0.2.0",
           pub_date= System.DateTime.Now,
           url= "https://github.com/aviconcentrix/TauriServer_netdore/raw/master/TauriServer_netdore/assets/EndPoint_0.2.0_x64_en-US.msi.zip",
-          signature= "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROUxiK2xrQkViMnRueGJkSy9pZjZtUmdPUTVpV2laZ2QySzhUREF6dThoYkF1em5BV1hDWEEvdUg3K2NydmtZV3IxbEYxRTd1WWxjc2d5TWV3U0lmV2RaRkF2a2ttTVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxMzI0ODU0CWZpbGU6RW5kUG9pbnRfMC4yLjBfeDY0X2VuLVVTLm1zaS56aXAKMG5VaTRwWG1yMUhEMUZxTUtCbU96aDdLOTdneWFwUlhvZUxwb1hwWEpwV1crcGNmUUErS2hsWDN4dlNSTmpNd2trNzREMmNqY0ZHWjBpUG8wam9yQkE9PQo=",
+          signature= "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2ZmUmVmNVBnT1cwUldROTIvaytoc25Cby9KVWZPSy9NbUNick80azRTTkU2QTl2aGJaeWxpY0VrOWsrdFg4eDFFMHNLYVJGaE5SN0h3bUY3eEZKeTlFMFVzS0J1NmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxMzQzMjI0CWZpbGU6RW5kUG9pbnRfMC4yLjBfeDY0X2VuLVVTLm1zaS56aXAKZi82aituY0RZQ1FYc1NPZ210QmNidkRERWJaUC9CT1d0ZzBIVWJ2RmdhejlLU1RPUGM3eEc4TFdPT05VUXljaE9kL1lMeStiVDhYcEI4TmU3Y2VVRHc9PQo=",
           notes="UI Changes!.."
         };
 
