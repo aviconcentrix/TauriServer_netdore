@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TauriServer_netdore", "TauriServer_netdore\TauriServer_netdore.csproj", "{440E3693-9B00-4A4C-85BB-10C321771C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440E3693-9B00-4A4C-85BB-10C321771C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440E3693-9B00-4A4C-85BB-10C321771C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440E3693-9B00-4A4C-85BB-10C321771C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440E3693-9B00-4A4C-85BB-10C321771C50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F689D5-E213-456F-B84D-7261C768D3DD}
+	EndGlobalSection
+EndGlobal
